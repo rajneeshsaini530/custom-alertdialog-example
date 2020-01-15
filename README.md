@@ -1,2 +1,3 @@
 # CustomAlertDialog
-This is a example of custom Alert dialog box.
+
+- This is a example of custom Alert dialog box.
